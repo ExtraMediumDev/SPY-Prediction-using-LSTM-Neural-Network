@@ -1,6 +1,6 @@
 # spy_equity_data
 
-Helped my friend's research at New York University to gather 3 years worth of minute-by-minute data on the SPDR S&P 500 ETF Trust
+Helped my friend's research at New York University to gather 3 years worth of minute-by-minute data on the SPDR S&P 500 ETF Trust, code has many manual calls due to API limits
 
 Data starts on March 22, 2023 and ends on Feburary 29, 2024
 
