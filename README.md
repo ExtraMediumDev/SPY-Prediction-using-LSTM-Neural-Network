@@ -6,6 +6,7 @@ Data starts on March 22, 2023 and ends on Feburary 29, 2024
 
 Link to csv file: https://drive.google.com/file/d/1DE0GOk1oDgjyS-VnlnS7PRX4zwW0UDFW/view?usp=sharing
 
+Resources used:
 - Alpha Vantage API
 - Pandas
 - MatPlotLib
