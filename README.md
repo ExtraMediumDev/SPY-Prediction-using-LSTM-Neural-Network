@@ -10,3 +10,5 @@ Resources used:
 - Alpha Vantage API
 - Pandas
 - MatPlotLib
+
+![image](https://github.com/ExtraMediumDev/spy_equity_data/assets/69373081/00709759-b687-40cc-ba20-009e43c16521)
