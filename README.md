@@ -1,0 +1,1 @@
+# spy_equity_data
