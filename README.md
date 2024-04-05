@@ -17,4 +17,5 @@ Resources used:
 - Scikit-Learn
 - Numpy
 
-![image](https://github.com/ExtraMediumDev/spy_equity_data/assets/69373081/00709759-b687-40cc-ba20-009e43c16521)
+Our predicted prices for the next 3 days are 508.36, 507.33, 508.01, as we can see, its relatively close to the actual price.
+![image](https://github.com/ExtraMediumDev/SPY-Prediction-using-LSTM-Neural-Network/assets/69373081/16e99daa-c74e-49cf-a338-d56a9f3d5fa6)
