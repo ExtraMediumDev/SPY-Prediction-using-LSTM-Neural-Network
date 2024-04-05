@@ -2,6 +2,8 @@
 
 Helped my friend's research at New York University to gather 3 years worth of minute-by-minute data on the SPDR S&P 500 ETF Trust, code has many manual calls due to API limits
 
+I learned how to do this from this article: https://medium.com/@dmytrosazonov/how-to-predict-stock-market-using-google-tensorflow-and-lstm-neural-network-81ccc41a22a8
+
 Data starts on March 22, 2023 and ends on Feburary 29, 2024
 
 Link to csv file: https://drive.google.com/file/d/1DE0GOk1oDgjyS-VnlnS7PRX4zwW0UDFW/view?usp=sharing
